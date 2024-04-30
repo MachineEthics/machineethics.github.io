@@ -26,24 +26,24 @@ social: false  # includes social icons at the bottom of the page
 Machine ethics is a multi-disciplinary effort focused on enabling ethical behavior from machines towards people and (in a sense) towards other machines. This tutorial aims to present the state of the art in machine ethics, helping researchers enter this field or reflect critically on the ethical dimensions of their own work.
 
 **Presenters:**
-- **Marija Slavkovik**, University of Bergen, Norway, Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no)
-- **Louise Dennis**, University of Manchester, Email: [louise.dennis@manchester.ac.uk](mailto:louise.dennis@manchester.ac.uk)
-- **Kevin Baum**, German Research Center for Artificial Intelligence (DFKI), Germany, Email: [kevin.baum@dfki.de](mailto:kevin.baum@dfki.de)
+- [**Marija Slavkovik**](https://scholar.google.de/citations?hl=de&user=TVmqPq0AAAAJ), University of Bergen, Norway, Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no)
+- [**Louise Dennis**](https://scholar.google.de/citations?user=5d8ouI8AAAAJ), University of Manchester, Email: [louise.dennis@manchester.ac.uk](mailto:louise.dennis@manchester.ac.uk)
+- [**Kevin Baum**](https://scholar.google.de/citations?hl=de&user=v3YfPJIAAAAJ), German Research Center for Artificial Intelligence (DFKI), Germany, Email: [kevin.baum@dfki.de](mailto:kevin.baum@dfki.de)
 
 
 **Duration:**
-[Half a day, divided into two 1:45h slots, at Day 2](https://ijcai24.org/tutorials/).
+Half a day, divided into two 1:45h slots, at Day 2 -- [for more information, check here.](https://ijcai24.org/tutorials/).
 
 **Outline:**
-1. **Introduction to Machine Ethics**
+1. Introduction to the research problems of machine ethics, its history and what do different disciplines study
 
-2. **Ethically Relevant Information**nformation.
+2. On ethically relevant informationnformation.
 
-3. **Incorporating Ethics in Operation**
+3. Incorporating ethics in operation; state of the art, approaches, methods, implementations
 
-4. **Ensuring Ethical Behaviour**
+4. Ensuring ethical behaviour
 
-5. **Current and Future Trends**
+5. Current and future trends of machine ethics research. Resources and challenges.
 
 **Target Audience:**
 Researchers at all levels with a basic graduate-level understanding of artificial intelligence, interested in engaging with machine ethics research.
@@ -52,7 +52,7 @@ Researchers at all levels with a basic graduate-level understanding of artificia
 The field of machine ethics addresses critical AI problems and is increasingly relevant as the autonomy of computational agents and systems grows.
 
 **More Information and Contact:**
-For more details about the tutorial and registration, please contact the presenters!
+For more details about the tutorial and registration, please contact [Marija](mailto:marija.slavkovik@uib.no) or [Kevin](mailto:kevin.baum@dfki.de).
 
 
 
