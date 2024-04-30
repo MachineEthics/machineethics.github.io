@@ -11,8 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><a href="https://scholar.google.de/citations?user=v3YfPJIAAAAJ"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a></p> <br>
-    <p><a href="https://www.linkedin.com/in/kevin-baum-55999580/"><i class="fa-brands fa-linkedin-in"></i> Linkedin</a></p> <br>
+    
 
 
 news: false  # includes a list of news items
