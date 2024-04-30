@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Tutorial on Machine Ethics at IJCAI2024
+title: 
 permalink: /
-subtitle:  A tutorial for prospective researchers. 
+subtitle:  
 
 #head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
 
