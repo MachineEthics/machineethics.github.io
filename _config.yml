@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Machine Ethics <p style="font-size: 80%;"> A IJCAI 2024 Tutorial for Prospective Researchers</p> # the website title (if blank, full name will be used instead)
+title: Machine Ethics: A IJCAI 2024 Tutorial for Prospective Researchers # the website title (if blank, full name will be used instead)
 first_name: Kevin
 middle_name: 
 last_name: Baum

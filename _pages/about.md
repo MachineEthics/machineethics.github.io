@@ -56,14 +56,20 @@ Researchers at all levels with a basic graduate-level understanding of artificia
       ![image tooltip here](/assets/img/Marija.jpg)
     </div>
   </div>
+  <div class="row">
+    <div class="col-md">
+      [Louise Dennis](https://personalpages.manchester.ac.uk/staff/louise.dennis/) is a Senior Lecturer at the University of Manchester. She has [world-leading expertise](https://scholar.google.de/citations?user=5d8ouI8AAAAJ) in agent programming languages, including explainability for agent programming, the development and verification of autonomous systems and the implementation of ethical reasoning and has published over 50 peer-reviewed papers on verification and autonomy, including key contributions on robot morality/ethics.  Email: [louise.dennis@manchester.ac.uk](mailto:louise.dennis@manchester.ac.uk)
+    </div>
+    <div class="col-sm">
+      ![image tooltip here](/assets/img/Louise.png)
+    </div>
+  </div>
 </div>
 
-- [**Louise Dennis**](https://scholar.google.de/citations?user=5d8ouI8AAAAJ), University of Manchester, Email: [louise.dennis@manchester.ac.uk](mailto:louise.dennis@manchester.ac.uk)
 - [**Kevin Baum**](https://scholar.google.de/citations?hl=de&user=v3YfPJIAAAAJ), German Research Center for Artificial Intelligence (DFKI), Germany, Email: [kevin.baum@dfki.de](mailto:kevin.baum@dfki.de)
 
 
 ​​
-Louise Dennis is a Lecturer at the Autonomy and Verification Laboratory at the University of Liverpool.She has world-leading expertise in agent programming languages (including explainability for agent programming, the development and verification of autonomous systems and the implementation of ethical reasoning and has published over 50 peer-reviewed papers on verification and autonomy, including key contributions on robot morality/ethics. She is a member of the IEEE P7001 Standards Working Group on Transparency for Autonomous systems. Her publications can be found here.
 
 
 
