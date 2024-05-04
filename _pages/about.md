@@ -63,7 +63,7 @@ Researchers at all levels with a basic graduate-level understanding of artificia
 
 
 **Contact:**
-For more details about the tutorial and registration, please contact [Marija](mailto:marija.slavkovik@uib.no) or [Kevin](mailto:kevin.baum@dfki.de).
+For more details about the tutorial, please contact [Marija](mailto:marija.slavkovik@uib.no) or [Kevin](mailto:kevin.baum@dfki.de).
 
 
 **Previous Tutorials:**
