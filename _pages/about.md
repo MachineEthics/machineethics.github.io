@@ -48,8 +48,8 @@ Researchers at all levels with a basic graduate-level understanding of artificia
 
 **Presenters:**
 
-![image](/assets/img/Marija.jpg){: .align-right} [Marija Slavkovik](https://slavkovik.com/) is full professor at the _University of Bergen_ in Norway. Her [area of research](https://scholar.google.de/citations?hl=de&user=TVmqPq0AAAAJ) is Artificial Intelligence (AI) with expertese in collective reasoning. Slavkovik is active in the AI subdisciplines of: multi-agent systems, machine ethics and computational social choice. She has been doing research in machine ethics since 2012, in particular on formalising ethical decision-making. Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no) 
-{:style="clear: left"}
+{% include module.html image_path="/assets/img/Marija.jpg" title="[Marija Slavkovik](https://slavkovik.com/)" description="Marija is full professor at the _University of Bergen_ in Norway. Her [area of research](https://scholar.google.de/citations?hl=de&user=TVmqPq0AAAAJ) is Artificial Intelligence (AI) with expertese in collective reasoning. Slavkovik is active in the AI subdisciplines of: multi-agent systems, machine ethics and computational social choice. She has been doing research in machine ethics since 2012, in particular on formalising ethical decision-making. Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no) 
+{:style="clear: left"}" %}
 
 
 ![image](/assets/img/Louise.png){: .align-right} [Louise Dennis](https://personalpages.manchester.ac.uk/staff/louise.dennis/) is a Senior Lecturer at the _University of Manchester_. She has [world-leading expertise](https://scholar.google.de/citations?user=5d8ouI8AAAAJ) in agent programming languages, including explainability for agent programming, the development and verification of autonomous systems and the implementation of ethical reasoning and has published over 50 peer-reviewed papers on verification and autonomy, including key contributions on robot morality/ethics.  Email: [louise.dennis@manchester.ac.uk](mailto:louise.dennis@manchester.ac.uk)
