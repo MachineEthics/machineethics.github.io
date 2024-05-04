@@ -25,10 +25,6 @@ social: false  # includes social icons at the bottom of the page
 
 Machine ethics is a multi-disciplinary effort focused on enabling ethical behavior from machines towards people and (in a sense) towards other machines. This tutorial aims to present the state of the art in machine ethics, helping researchers enter this field or reflect critically on the ethical dimensions of their own work.
 
-**Presenters:**
-- [**Marija Slavkovik**](https://scholar.google.de/citations?hl=de&user=TVmqPq0AAAAJ), University of Bergen, Norway, Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no)
-- [**Louise Dennis**](https://scholar.google.de/citations?user=5d8ouI8AAAAJ), University of Manchester, Email: [louise.dennis@manchester.ac.uk](mailto:louise.dennis@manchester.ac.uk)
-- [**Kevin Baum**](https://scholar.google.de/citations?hl=de&user=v3YfPJIAAAAJ), German Research Center for Artificial Intelligence (DFKI), Germany, Email: [kevin.baum@dfki.de](mailto:kevin.baum@dfki.de)
 
 
 **Duration:**
@@ -48,12 +44,37 @@ Half a day, divided into two 1:45h slots, at Day 2 -- [for more information, che
 **Target Audience:**
 Researchers at all levels with a basic graduate-level understanding of artificial intelligence, interested in engaging with machine ethics research.
 
-**Motivation:**
-The field of machine ethics addresses critical AI problems and is increasingly relevant as the autonomy of computational agents and systems grows.
 
-**More Information and Contact:**
+**Presenters:** 
+
+<div class="container">
+  <div class="row">
+    <div class="col-md">
+      [Marija Slavkovik](https://slavkovik.com/) is full professor at the University of Bergen in Norway. Her [area of research](https://scholar.google.de/citations?hl=de&user=TVmqPq0AAAAJ) is Artificial Intelligence (AI) with expertese in collective reasoning. Slavkovik is active in the AI subdisciplines of: multi-agent systems, machine ethics and computational social choice. She has been doing research in machine ethics since 2012, in particular on formalising ethical decision-making. Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no) 
+    </div>
+    <div class="col-sm">
+      ![image tooltip here](/assets/img/Marija.jpg)
+    </div>
+  </div>
+</div>
+
+- [**Louise Dennis**](https://scholar.google.de/citations?user=5d8ouI8AAAAJ), University of Manchester, Email: [louise.dennis@manchester.ac.uk](mailto:louise.dennis@manchester.ac.uk)
+- [**Kevin Baum**](https://scholar.google.de/citations?hl=de&user=v3YfPJIAAAAJ), German Research Center for Artificial Intelligence (DFKI), Germany, Email: [kevin.baum@dfki.de](mailto:kevin.baum@dfki.de)
+
+
+​​
+Louise Dennis is a Lecturer at the Autonomy and Verification Laboratory at the University of Liverpool.She has world-leading expertise in agent programming languages (including explainability for agent programming, the development and verification of autonomous systems and the implementation of ethical reasoning and has published over 50 peer-reviewed papers on verification and autonomy, including key contributions on robot morality/ethics. She is a member of the IEEE P7001 Standards Working Group on Transparency for Autonomous systems. Her publications can be found here.
+
+
+
+
+
+**Contact:**
 For more details about the tutorial and registration, please contact [Marija](mailto:marija.slavkovik@uib.no) or [Kevin](mailto:kevin.baum@dfki.de).
 
 
+**Previous Tutorials:**
+* [IJCAI 2020 Tutorial on Machine Ethics](https://slavkovik.com/ijcaitutorial2020.html)
+* [IJCAI 2018 Tutorial on Machine Ethics](https://slavkovik.com/ijcaitutorial.html)
 
 
