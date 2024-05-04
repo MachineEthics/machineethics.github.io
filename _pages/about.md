@@ -48,18 +48,18 @@ Researchers at all levels with a basic graduate-level understanding of artificia
 
 **Presenters:**
 
-![image](/assets/img/Marija.jpg){: style="float: left"}
+![image](/assets/img/Marija.jpg){: style="float: left"; margin-right: 20px;}
 
 [Marija Slavkovik](https://slavkovik.com/) is full professor at the _University of Bergen_ in Norway. Her [area of research](https://scholar.google.de/citations?hl=de&user=TVmqPq0AAAAJ) is Artificial Intelligence (AI) with expertese in collective reasoning. Slavkovik is active in the AI subdisciplines of: multi-agent systems, machine ethics and computational social choice. She has been doing research in machine ethics since 2012, in particular on formalising ethical decision-making. Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no) 
+<br/>
 
 
-
-![image](/assets/img/Louise.png){: style="float: left"}
+![image](/assets/img/Louise.png){: style="float: left"; margin-right: 20px;}
 
 [Louise Dennis](https://personalpages.manchester.ac.uk/staff/louise.dennis/) is a Senior Lecturer at the _University of Manchester_. She has [world-leading expertise](https://scholar.google.de/citations?user=5d8ouI8AAAAJ) in agent programming languages, including explainability for agent programming, the development and verification of autonomous systems and the implementation of ethical reasoning and has published over 50 peer-reviewed papers on verification and autonomy, including key contributions on robot morality/ethics.  Email: [louise.dennis@manchester.ac.uk](mailto:louise.dennis@manchester.ac.uk)
+<br/>
 
-
-![image](/assets/img/Kevin.jpg){: style="float: left"}
+![image](/assets/img/Kevin.jpg){: style="float: left"; margin-right: 20px;}
 
 [Kevin Baum](https://kevinbaum.de) is a Senior Researcher at the _German Research Center for Artificial Intelligence_ (DFKI) and head of the [_Center for European Research for Trusted AI_ (CERTAIN)](https://certain.dfki.de/). Kevin is a philosopher and computer scientist with extensive teaching experience in computer ethics (see [_Ethics for Nerds_](https://www.volkswagenstiftung.de/en/news/story/ethics-nerds)). His [area of research](https://scholar.google.de/citations?hl=de&user=v3YfPJIAAAAJ) is the interdisciplinary research in trustworthy AI topics, especially regarding the connection of explainability with responsibility and human oversight. Kevin has also conducted research in the area of machine ethics since 2018. Email: [kevin.baum@dfki.de](mailto:kevin.baum@dfki.de)
 
