@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 <script src="https://kit.fontawesome.com/568534ed70.js" crossorigin="anonymous"></script>
 
 
-
+**A Tutorial for Prospective Researchers at IJCAI 2024**
 
 Machine ethics is a multi-disciplinary effort focused on enabling ethical behavior from machines towards people and (in a sense) towards other machines. This tutorial aims to present the state of the art in machine ethics, helping researchers enter this field or reflect critically on the ethical dimensions of their own work.
 
