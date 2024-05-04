@@ -48,7 +48,7 @@ Researchers at all levels with a basic graduate-level understanding of artificia
 
 **Presenters:**
 
-{% include module.html image_path="/assets/img/Marija.jpg" title="[Marija Slavkovik](https://slavkovik.com/)" description="Marija is full professor at the _University of Bergen_ in Norway. Her [area of research](https://scholar.google.de/citations?hl=de&user=TVmqPq0AAAAJ) is Artificial Intelligence (AI) with expertese in collective reasoning. Slavkovik is active in the AI subdisciplines of: multi-agent systems, machine ethics and computational social choice. She has been doing research in machine ethics since 2012, in particular on formalising ethical decision-making. Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no) 
+{% include module.html image_path="/assets/img/Marija.jpg" description="[Marija Slavkovik](https://slavkovik.com/) is full professor at the _University of Bergen_ in Norway. Her [area of research](https://scholar.google.de/citations?hl=de&user=TVmqPq0AAAAJ) is Artificial Intelligence (AI) with expertese in collective reasoning. Slavkovik is active in the AI subdisciplines of: multi-agent systems, machine ethics and computational social choice. She has been doing research in machine ethics since 2012, in particular on formalising ethical decision-making. Email: [marija.slavkovik@uib.no](mailto:marija.slavkovik@uib.no) 
 {:style="clear: left"}" %}
 
 
