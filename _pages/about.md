@@ -23,17 +23,17 @@ social: false  # includes social icons at the bottom of the page
 
 **A Tutorial for Prospective Researchers at IJCAI 2024**
 
-Machine ethics is a multi-disciplinary effort focused on enabling ethical behavior from machines towards people and (in a sense) towards other machines. This tutorial aims to present the state of the art in machine ethics, helping researchers enter this field or reflect critically on the ethical dimensions of their own work.
+Machine ethics is a multi-disciplinary effort focused on enabling ethical behavior from machines towards people and (in a sense) towards other machines. [This tutorial](https://ijcai24.org/tutorials/) aims to present the state of the art in machine ethics, helping researchers enter this field or reflect critically on the ethical dimensions of their own work.
 
 
 
-**Duration:**
-Half a day, divided into two 1:45h slots, at Day 2 -- [for more information, check here.](https://ijcai24.org/tutorials/).
+**Time and Date:**
+Sunday August 4th, 2pm to 5:30pm -- [for more information, check here.](https://ijcai24.org/schedule/).
 
 **Outline:**
 1. Introduction to the research problems of machine ethics, its history and what do different disciplines study
 
-2. On ethically relevant informationnformation.
+2. On ethically relevant information.
 
 3. Incorporating ethics in operation; state of the art, approaches, methods, implementations
 
